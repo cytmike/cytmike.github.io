@@ -1,11 +1,11 @@
 # Site settings
 author: Michael Cheng
-title: Brown's Mathematics and Data Science
+title: Brown's blog
 header-img: img/home-bg.png
 email: cytmike@gmail.com
 copyright_name: Michael Cheng
 description: > # this means to ignore newlines until "baseurl:"
-  blog
+  Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cytmike
