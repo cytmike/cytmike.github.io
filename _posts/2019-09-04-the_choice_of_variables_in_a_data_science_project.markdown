@@ -104,7 +104,7 @@ The regression model will compute the price of any given house using these varia
 
 Here are the list of all variables:
 ```
-Index(['bedrooms', 'bathrooms', 'waterfront', 'grade', 'sqft_above',
+      ['bedrooms', 'bathrooms', 'waterfront', 'grade', 'sqft_above',
        'sqft_basement', 'lat', 'renovated', 'zipcode_98002', 'zipcode_98003',
        'zipcode_98004', 'zipcode_98005', 'zipcode_98006', 'zipcode_98007',
        'zipcode_98008', 'zipcode_98010', 'zipcode_98011', 'zipcode_98014',
@@ -125,6 +125,5 @@ Index(['bedrooms', 'bathrooms', 'waterfront', 'grade', 'sqft_above',
        'zipcode_98188', 'zipcode_98198', 'zipcode_98199', 'view_1.0',
        'view_2.0', 'view_3.0', 'view_4.0', 'condition_2', 'condition_3',
        'condition_4', 'condition_5', 'floors_1.5', 'floors_2.0', 'floors_2.5',
-       'floors_3.0', 'floors_3.5'],
-      dtype='object')
-			```
+       'floors_3.0', 'floors_3.5']
+```
