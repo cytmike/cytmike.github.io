@@ -88,7 +88,16 @@ grade            0.667951
 ```
 
 view and condition can be converted to categorical variable, because they are discrete values from 0 to 5.
+Similarly, floor has 6 discrete values: 1.0, 1.5, 2.0, 2.5, 3.0 and 3.5. It can also be converted to categorical variable.
 
 long, yr_built, sqft_lot15, and sqft_lot are dropped because of low correlation to price.
 
-yr_renovated can be converted to a boolean to indicate if a house was renovated.
+yr_renovated can be converted to a boolean to indicate if a house was renovated. It is because the year itself has little meaning. This plot shows that renovation has an effect on the price.
+![](https://i.imgur.com/gcMjfTt.png)
+
+Thus the model will include 6 numerical variables: bedrooms, bathrooms, grade, sqft_above, sqft_basement and lat.
+
+Then there are 2 boolean variables , that has 0 or 1 value, waterfront and renovated.
+
+The rest are categorical variables, converted from zipcode, view, floors and condition.
+The regression model will compute the price of any given house using these variables.
