@@ -20,6 +20,8 @@ The top 25 results are put into ARIMA model to predict the price 5 years later, 
 
 The problem with ARIMA model is its slow speed. It takes several minutes to process all 25 inputs.
 
+The following are the top 10 zip codes sorted by percentage of price increase.
+
 ```
 0	30238	102900.0	184913.202615	79.701849	GA	Jonesboro	Atlanta
 1	28208	113400.0	201593.664970	77.772191	NC	Charlotte	Charlotte
