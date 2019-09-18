@@ -47,4 +47,4 @@ Here are the projection plots:
 ![](https://i.imgur.com/HKczOyw.png)
 ![](https://i.imgur.com/6ntU2bo.png)
 
-The ARIMA model does not have the ability to predict prices going down in this situation. I want to try out other time series models in the future and compare the results.
+The ARIMA model does not have the ability to predict prices going down in this situation. I want to try out other time series models in the future and compare the results. I think it is possible that time series algorithms have this weakness. When prices are going up from 2012 to 2018, no algorithms can predict when prices will drop again.
