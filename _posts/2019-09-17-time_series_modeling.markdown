@@ -30,7 +30,7 @@ The problem with ARIMA model is its slow speed. It takes several minutes to proc
 6	89502	281200.0	430488.320618	53.089730	NV	Reno		Reno
 7	89506	279400.0	426310.343296	52.580653	NV	Reno		Reno
 8	89503	310200.0	451825.354314	45.656143	NV	Reno		Reno
-9	48239	97600.0		139618.737246	43.051985	MI	Redford	Detroit
+9	48239	97600.0 	139618.737246	43.051985	MI	Redford	Detroit
 ```
 
 The columns are zip code, 2018 price, 2023 projected price, % increase, state, city and metro.
