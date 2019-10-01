@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Machine Learning: Pulsar Stars Classification"
-date:       2019-09-20 21:14:38 +0000
+date:       2019-09-20 17:14:39 -0400
 permalink:  machine_learning_pulsar_stars_classification
 ---
 
 
-The content of your blog post goes here.
+
 
 References
 
