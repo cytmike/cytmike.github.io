@@ -20,6 +20,9 @@ Adaboost,
 Gradient Boosting, and
 Random Forest. There is no one single algorithm which performs the best all the time, so it is interesting to check with multiple algorithms.
 
+Logistic Regression is the best algorithm at 98.16%, while Adaboost comes in second at 98.01%.
+
+
 References
 
 R. J. Lyon, B. W. Stappers, S. Cooper, J. M. Brooke, J. D. Knowles, Fifty Years of Pulsar Candidate Selection: From simple filters to a new principled real-time classification approach, Monthly Notices of the Royal Astronomical Society 459 (1), 1104-1123, DOI: 10.1093/mnras/stw656
