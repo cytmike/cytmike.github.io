@@ -22,6 +22,8 @@ Random Forest. There is no one single algorithm which performs the best all the 
 
 Logistic Regression is the best algorithm at 98.16%, while Adaboost comes in second at 98.01%.
 
+One difficulty that I encountered is it was too slow to run any grid searches. It could not be completed in any reasonable timeframe.
+
 
 References
 
