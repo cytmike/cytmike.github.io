@@ -10,4 +10,4 @@ Section 42 of the curriculum is about graph theory. This blogpost presents a cla
 
 It is from a Prussia city called Königsberg, which is now Kaliningrad in Russia. As shown in the picture below, there is a river and two islands. 
 
-![](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg#/media/File:Konigsberg_bridges.png)
+![](https://upload.wikimedia.org/wikipedia/commons/5/5d/Konigsberg_bridges.png)
