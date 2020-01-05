@@ -1,9 +1,10 @@
 ---
 layout: post
-title:      "Thoughts on Probability"
+title:      "Towards Data Science blog"
 date:       2020-01-04 04:55:11 +0000
-permalink:  thoughts_on_probability
+permalink:  data_science_blog
 ---
 
 
 
+Towards Data Science is a good blog with a lot of Data Science resources.
