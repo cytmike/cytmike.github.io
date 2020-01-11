@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Python lists"
-date:       2020-01-11 21:40:40 +0000
+title:      "Python Lists"
+date:       2020-01-11 16:40:41 -0500
 permalink:  python_lists
 ---
 
