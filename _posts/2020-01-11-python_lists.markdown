@@ -6,15 +6,6 @@ permalink:  python_lists
 ---
 
 
-The content of your blog post goes here.
+List in Python is like this: [1, 'a', 8, 20.1, 'brown']
 
-The content of your blog post goes here.
-
-
-The content of your blog post goes here.
-
-The content of your blog post goes here.
-
-The content of your blog post goes here.
-
-The content of your blog post goes here.
+It can contain a mixture of different types.
