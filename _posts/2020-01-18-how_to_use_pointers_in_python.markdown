@@ -6,21 +6,7 @@ permalink:  how_to_use_pointers_in_python
 ---
 
 
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
-The content of your blog post goes here.
+Python does not have pointers, unlike C or C++.
+
+It does not have direct access to memory using & or * operators. However since there is no need to assign variable types, it is possible to still create linked lists for example.
+
