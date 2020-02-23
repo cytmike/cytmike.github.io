@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pascal triangle in Python"
-date:       2020-02-23 03:57:57 +0000
+date:       2020-02-22 03:57:57 +0000
 permalink:  pascal_triangle_in_python
 ---
 
